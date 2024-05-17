@@ -594,19 +594,20 @@ footer a:hover {
 
 .home_advocacia .card_blog {
   margin-bottom: 30px;
+  margin-top: 10px;
 }
 
 .home_advocacia .tit_card_blog {
-  font-size: 1.375rem;
+  font-size: 1.2rem;
   text-transform: uppercase;
-  line-height: 28px;
+  line-height: 25px;
 }
 
 .home_advocacia .card_blog_img {
   transition: 0.2s;
   height: 280px;
   width: 100%;
-  border-radius: 20px;
+  border-radius: 5px;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;

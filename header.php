@@ -23,7 +23,10 @@
         <div class="logo">
           <a href="#"><img src="images/logo_header.png" class="img-fluid" alt=""></a>
         </div>
-        <div id="mainListDiv" class="main_list">
+        <!-- <div class="row m-0 p-0">
+          <div class="col d-inline-block text-end me-3 p-0"><i style="color: #00D158;" class="fa-brands fa-whatsapp fs-2"></i></div>
+        </div> -->
+        <div id="mainListDiv" class="main_list d-flex align-items-center">
           <ul class="navlinks">
             <li><a href="index.php">Home</a></li>
             <li><a href="equipe.php">Equipe</a></li>
@@ -31,6 +34,7 @@
             <li><a href="servicos.php">Serviços</a></li>
             <li><a href="blog.php">Blog</a></li>
             <li><a href="contato.php">Contato</a></li>
+            <li><a href="contato.php"><i style="color: #00D158;" class="fa-brands fa-whatsapp mt-3 fs-2"></i></a></li>
           </ul>
         </div>
         <span class="navTrigger">
