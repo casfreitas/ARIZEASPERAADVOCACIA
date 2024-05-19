@@ -28,7 +28,7 @@
         </div> -->
         <div id="mainListDiv" class="main_list d-flex align-items-center">
           <ul class="navlinks">
-            <li><a href="index.php">Home</a></li>
+            <li><a href="index.php">Início</a></li>
             <li><a href="equipe.php">Equipe</a></li>
             <li><a href="area_atuacao.php">Áreas de atuação</a></li>
             <li><a href="servicos.php">Serviços</a></li>

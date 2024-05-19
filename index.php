@@ -4,16 +4,16 @@
   <div class="container">
     <div class="row m-0">
       <div class="col-sm-6 col-xl-3">
-        <div class="icons_banner_icon"><img src="images/icon_criminal.svg" class="img-fluid" alt=""> Bancário</div>
+        <div class="icons_banner_icon"><img src="images/icon_bancario.svg" class="img-fluid" width="75" alt=""> Bancário</div>
       </div>
       <div class="col-sm-6 col-xl-3">
-        <div class="icons_banner_icon"><img src="images/icon_consumidor.svg" class="img-fluid" width="65" alt=""> Consumidor</div>
+        <div class="icons_banner_icon"><img src="images/icon_consumidor.svg" class="img-fluid" width="55" alt=""> Consumidor</div>
       </div>
       <div class="col-sm-6 col-xl-3">
-        <div class="icons_banner_icon"><img src="images/icon_previdencia.svg" class="img-fluid" alt=""> Previdenciário</div>
+        <div class="icons_banner_icon"><img src="images/icon_previdencia.svg" class="img-fluid" width="65" alt=""> Previdenciário</div>
       </div>
       <div class="col-sm-6 col-xl-3">
-        <div class="icons_banner_icon"><img src="images/icon_digital.svg" class="img-fluid" alt=""> Direito Digital</div>
+        <div class="icons_banner_icon"><img src="images/icon_digital.svg" class="img-fluid" width="65" alt=""> Direito Digital</div>
       </div>
     </div>
   </div>
@@ -141,26 +141,26 @@
     <div class="row g-5 m-0">
 
       <div class="col-lg-6 col-xl-4 px-lg-4 fade-top card_blog">
-        <div style='background-image: url("images/img12.png");' class="img-fluid card_blog_img"></div>
-        <!-- <img src="images/img12.png" class="img-fluid rounded-4 mb-4" alt=""> -->
         <a href="">
+          <div style='background-image: url("images/img12.png");' class="img-fluid card_blog_img"></div>
+          <!-- <img src="images/img12.png" class="img-fluid rounded-4 mb-4" alt=""> -->
           <h2 class="mb-3 tit_card_blog">Voo atrasado ou cancelado: o que devo fazer? Tenho direito a indenização?</h2>
         </a>
         <!-- <a href="blog_single.php" class="btn botao mt-1">Leia mais</a> -->
       </div>
 
       <div class="col-lg-6 col-xl-4 px-lg-4 fade-top card_blog">
-        <div style='background-image: url("images/img13.png");' class="img-fluid card_blog_img"></div>
         <a href="">
+          <div style='background-image: url("images/img13.png");' class="img-fluid card_blog_img"></div>
           <h2 class="mb-3 tit_card_blog">MEU FAMILIAR ESTÁ CUMPRINDO CADEIA… HÁ POSSIBILIDADE DE REDUZIR O TEMPO...</h2>
         </a>
         <!-- <a href="blog_single.php" class="btn botao mt-1">Leia mais</a> -->
       </div>
 
       <div class="col-lg-6 col-xl-4 px-lg-4 fade-top card_blog">
-        <div style='background-image: url("images/img14.jpeg");' class="img-fluid card_blog_img"></div>
-        <!-- <img src="images/img14.jpeg" class="img-fluid rounded-4 mb-4" alt=""> -->
         <a href="">
+          <div style='background-image: url("images/img14.jpeg");' class="img-fluid card_blog_img"></div>
+          <!-- <img src="images/img14.jpeg" class="img-fluid rounded-4 mb-4" alt=""> -->
           <h2 class="mb-3 tit_card_blog">ACORDO DE NÃO PERSECUÇÃO PENAL (ANPP): O QUE EU GANHO COM ISSO?</h2>
         </a>
         <!-- <a href="blog_single.php" class="btn botao mt-1">Leia mais</a> -->

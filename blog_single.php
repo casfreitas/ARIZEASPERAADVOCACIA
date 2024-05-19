@@ -1,5 +1,17 @@
 <?php include 'header.php' ?>
 
+<style>
+  .banner {
+    width: 100%;
+    height: 250px;
+    background-image: url("images/banner_header.png");
+    background-repeat: no-repeat;
+    background-position: center !important;
+    background-size: cover;
+    padding-top: 25px;
+  }
+</style>
+
 <div class="container">
 
   <div class="blog_single px-md-5 px-4" style="margin-top: 100px;">
