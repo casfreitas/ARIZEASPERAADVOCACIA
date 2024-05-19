@@ -1,3 +1,7 @@
+<?php
+session_start();
+ob_start(); //Limpa o buff de saida
+?>
 <!doctype html>
 <html lang="pt-br">
 
